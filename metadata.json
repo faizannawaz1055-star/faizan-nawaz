@@ -1,0 +1,6 @@
+{
+  "name": "SnapFetch - Universal All-in-One Video Downloader",
+  "description": "Universal high-speed video downloader for YouTube, TikTok, Instagram, Facebook & Twitter with 4K MP4, MP3 conversion, batch download, custom templates, AI summaries, and user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
